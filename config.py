@@ -2,8 +2,29 @@
 NDSS 2026 Paper Scraper - Configuration
 """
 
+import os
+
+
+def _load_dotenv(path: str = ".env"):
+    """Minimal .env loader — no extra dependencies needed."""
+    if not os.path.exists(path):
+        return
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, val = line.partition("=")
+            key, val = key.strip(), val.strip()
+            if key not in os.environ:
+                os.environ[key] = val
+
+
+_load_dotenv()
+
 # --- DeepSeek API ---
-DEEPSEEK_API_KEY = "sk-ffc3619d69c145b7ae89d2630f072dd4"
+# Set DEEPSEEK_API_KEY in your environment, or create a .env file (see .env.example)
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-v4-flash"
 

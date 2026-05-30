@@ -14,4 +14,6 @@ Thumbs.db
 
 # Virtual environment
 venv/
+
+# Secrets (copy .env.example to .env and fill in your key)
 .env
