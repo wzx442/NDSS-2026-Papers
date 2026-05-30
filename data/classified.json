@@ -1,0 +1,1281 @@
+{
+  "taxonomy": {
+    "Machine Learning and Security": [
+      "Adversarial ML",
+      "Federated Learning",
+      "Privacy-Preserving ML",
+      "ML for Malware/Intrusion Detection",
+      "Backdoor Attacks",
+      "Model Extraction",
+      "Differential Privacy",
+      "ML-based Binary Analysis",
+      "Model Attribution",
+      "Poisoning Attacks",
+      "Membership Inference",
+      "Differential Privacy for GNNs",
+      "Secure ML Inference",
+      "Private Neural Network Inference",
+      "Model Extraction Attack",
+      "Differentially Private Code Generation",
+      "Differential Privacy for Reinforcement Learning",
+      "Differential Privacy for Hyperparameter Tuning",
+      "Prompt Stealing Attacks"
+    ],
+    "LLMs and AI Safety": [
+      "LLM Jailbreak",
+      "Prompt Injection",
+      "LLM Safety/Alignment",
+      "LLM-based Security Tools",
+      "LLM for Vulnerability Detection",
+      "LLM Security Architecture",
+      "AI Agents Security",
+      "LLM for Malware Detection",
+      "LLM Inference Attacks",
+      "LLM Backdoor Attacks",
+      "LLM Watermarking Attacks",
+      "LLM Censorship Policies",
+      "LLM Security Research Methodology",
+      "LLM Jailbreaking",
+      "Prompt Privacy",
+      "Adversarial Robustness for LLMs",
+      "LLM Denial-of-Service Attacks",
+      "LLM Static Analysis Attacks"
+    ],
+    "Web Security": [
+      "Browser Security",
+      "Web Attack Detection",
+      "JavaScript Security",
+      "Web Tracking",
+      "XSS/CSRF",
+      "Web API Security",
+      "Site Isolation",
+      "Web Authentication",
+      "Phishing",
+      "WebAssembly Security",
+      "WebView Privacy Tracking",
+      "JWT Vulnerability Analysis",
+      "SPA Taint Analysis"
+    ],
+    "Network Security": [
+      "TLS/HTTPS",
+      "DNS Security",
+      "Wi-Fi Security",
+      "Intrusion Detection",
+      "DDoS Defense",
+      "Traffic Analysis",
+      "Network Protocol Security",
+      "BGP/Routing Security",
+      "Mobile Network Security",
+      "Proxy Detection",
+      "Trust Prediction",
+      "Website Fingerprinting Defense",
+      "Website Fingerprinting",
+      "DNS Timing Attacks",
+      "SMTP Amplification Attack",
+      "Certificate Transparency",
+      "VPN Security",
+      "Network Token Security",
+      "NTP Security",
+      "Email Security",
+      "Source Address Validation",
+      "Wireless Service Discovery",
+      "VoIP Security",
+      "Remote Timing Attacks",
+      "I2P De-anonymization"
+    ],
+    "Systems Security": [
+      "OS Security",
+      "Virtualization Security",
+      "Trusted Execution (TEE)",
+      "Hardware Security",
+      "Cloud Security",
+      "Container Security",
+      "Side Channels",
+      "Rowhammer",
+      "Firmware Security",
+      "Cloud Side-Channel Attacks",
+      "Hypervisor Exploitation",
+      "Kubernetes Security",
+      "Kernel Cache Attacks",
+      "CPU Fuzzing",
+      "Hardware Fuzzing",
+      "File System Security",
+      "Kernel Exploitation",
+      "Processor Fuzzing",
+      "Firmware Vulnerability Detection",
+      "Embedded TEE Security"
+    ],
+    "Software Security": [
+      "Vulnerability Detection",
+      "Fuzzing",
+      "Binary Analysis",
+      "Program Analysis",
+      "Exploitation",
+      "Patch Analysis",
+      "Supply Chain Security",
+      "Static/Dynamic Analysis",
+      "Sanitizers",
+      "Binary Diffing",
+      "Prototype Pollution Detection",
+      "Use-After-Free Prevention",
+      "Code Reuse Attack Synthesis",
+      "Firmware Rehosting",
+      "Password Manager Attacks"
+    ],
+    "Cryptography and Privacy": [
+      "Applied Cryptography",
+      "Searchable Encryption",
+      "Homomorphic Encryption",
+      "Zero-Knowledge Proofs",
+      "Secure Multiparty Computation",
+      "Messaging Security",
+      "Authentication Protocols",
+      "Post-Quantum Crypto",
+      "Private Information Retrieval",
+      "Steganography",
+      "Password Guessing",
+      "Private Sealed-bid Auctions",
+      "Private Set Union",
+      "Private Set Intersection",
+      "Oblivious RAM",
+      "Mixnet Security",
+      "Privacy-Preserving Graph Search",
+      "Remote Attestation",
+      "Differential Privacy",
+      "Authenticated Dictionaries",
+      "Dataset Watermarking",
+      "White-Box Encryption"
+    ],
+    "IoT and CPS Security": [
+      "Automotive Security",
+      "IoT Security",
+      "Industrial Control Systems",
+      "Drone Security",
+      "Robotics Security",
+      "Smart Home Security",
+      "Medical Device Security",
+      "Building Automation",
+      "BLE Security",
+      "BLE Fuzzing",
+      "Satellite Security",
+      "IoT Vulnerability Detection",
+      "Wearable Authentication",
+      "Sensor Security",
+      "Autonomous Perception Security",
+      "Aviation Security"
+    ],
+    "Blockchain and Distributed Systems": [
+      "Smart Contract Security",
+      "DeFi Security",
+      "Consensus Security",
+      "Blockchain Privacy",
+      "Cryptocurrency Security",
+      "P2P Security",
+      "Cross-Consensus Broadcast",
+      "Oracle Security"
+    ],
+    "Usable Security and Privacy": [
+      "Security Usability",
+      "Privacy Perceptions",
+      "Authentication UX",
+      "Security Warnings",
+      "Developer Practices",
+      "Threat Intelligence"
+    ],
+    "Digital Forensics and Abuse": [
+      "Malware Analysis",
+      "Fraud Detection",
+      "Online Abuse",
+      "Disinformation",
+      "CSAM Detection",
+      "Censorship Circumvention",
+      "Spam Detection",
+      "Cryptocurrency Phishing",
+      "Malicious Domain Detection",
+      "Threat Intelligence",
+      "Domain Dispute Analysis",
+      "Fake Speech Detection",
+      "Social Media Algorithm Analysis",
+      "Abuse Ecosystem Analysis",
+      "Code Signing Abuse",
+      "Dataset Copyright Auditing",
+      "Deepfake Detection"
+    ],
+    "Formal Methods and Verification": [
+      "Protocol Verification",
+      "Security Proofs",
+      "Symbolic Execution",
+      "Model Checking",
+      "Security Policy",
+      "Compliance Verification"
+    ],
+    "Quantum Computing Security": [
+      "Backdoor Attacks on Quantum Algorithms"
+    ]
+  },
+  "new_categories": [
+    "Quantum Computing Security"
+  ],
+  "classifications": {
+    "23756": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Jailbreak"
+    },
+    "23806": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "ML-based Binary Analysis"
+    },
+    "23637": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial ML"
+    },
+    "23609": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Federated Learning"
+    },
+    "23719": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Messaging Security"
+    },
+    "23584": {
+      "broad_category": "Software Security",
+      "sub_area": "Vulnerability Detection"
+    },
+    "23606": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Security Architecture"
+    },
+    "23646": {
+      "broad_category": "Web Security",
+      "sub_area": "Web Attack Detection"
+    },
+    "23671": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Model Attribution"
+    },
+    "23724": {
+      "broad_category": "Software Security",
+      "sub_area": "Supply Chain Security"
+    },
+    "23693": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Threat Intelligence"
+    },
+    "23803": {
+      "broad_category": "Network Security",
+      "sub_area": "TLS/HTTPS"
+    },
+    "23644": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Robotics Security"
+    },
+    "23777": {
+      "broad_category": "Network Security",
+      "sub_area": "Wi-Fi Security"
+    },
+    "23772": {
+      "broad_category": "Network Security",
+      "sub_area": "DDoS Defense"
+    },
+    "23770": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Industrial Control Systems"
+    },
+    "23773": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Protocol Verification"
+    },
+    "23740": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Authentication UX"
+    },
+    "23769": {
+      "broad_category": "Network Security",
+      "sub_area": "Mobile Network Security"
+    },
+    "23765": {
+      "broad_category": "Software Security",
+      "sub_area": "Vulnerability Detection"
+    },
+    "23761": {
+      "broad_category": "Web Security",
+      "sub_area": "Browser Security"
+    },
+    "23718": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Injection"
+    },
+    "23653": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differential Privacy"
+    },
+    "23623": {
+      "broad_category": "Systems Security",
+      "sub_area": "Trusted Execution (TEE)"
+    },
+    "23661": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Automotive Security"
+    },
+    "23626": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Building Automation"
+    },
+    "23732": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Safety/Alignment"
+    },
+    "23592": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cloud Security"
+    },
+    "23713": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Malware Analysis"
+    },
+    "23831": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Safety/Alignment"
+    },
+    "23579": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM for Malware Detection"
+    },
+    "23813": {
+      "broad_category": "Network Security",
+      "sub_area": "Proxy Detection"
+    },
+    "23619": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Diffing"
+    },
+    "23782": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cloud Side-Channel Attacks"
+    },
+    "23615": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "23682": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Jailbreak"
+    },
+    "23697": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "BLE Security"
+    },
+    "23716": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hypervisor Exploitation"
+    },
+    "23752": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kubernetes Security"
+    },
+    "23737": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Steganography"
+    },
+    "23691": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "BLE Fuzzing"
+    },
+    "23596": {
+      "broad_category": "Software Security",
+      "sub_area": "Prototype Pollution Detection"
+    },
+    "23602": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23827": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Inference Attacks"
+    },
+    "23621": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Membership Inference"
+    },
+    "23815": {
+      "broad_category": "Network Security",
+      "sub_area": "Trust Prediction"
+    },
+    "23665": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Backdoor Attacks"
+    },
+    "23700": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Backdoor Attacks"
+    },
+    "23754": {
+      "broad_category": "Network Security",
+      "sub_area": "Website Fingerprinting Defense"
+    },
+    "23643": {
+      "broad_category": "Network Security",
+      "sub_area": "Website Fingerprinting"
+    },
+    "23809": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Malware Analysis"
+    },
+    "23583": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Watermarking Attacks"
+    },
+    "23673": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Censorship Policies"
+    },
+    "23796": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Security Research Methodology"
+    },
+    "23715": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM-based Security Tools"
+    },
+    "23742": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Zero-Knowledge Proofs"
+    },
+    "23677": {
+      "broad_category": "Network Security",
+      "sub_area": "Intrusion Detection"
+    },
+    "23616": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Messaging Security"
+    },
+    "23611": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23600": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial ML"
+    },
+    "23817": {
+      "broad_category": "Network Security",
+      "sub_area": "DNS Timing Attacks"
+    },
+    "23708": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differential Privacy for GNNs"
+    },
+    "23783": {
+      "broad_category": "Network Security",
+      "sub_area": "SMTP Amplification Attack"
+    },
+    "23625": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Password Guessing"
+    },
+    "23774": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/Routing Security"
+    },
+    "23569": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Secure ML Inference"
+    },
+    "23636": {
+      "broad_category": "Web Security",
+      "sub_area": "WebView Privacy Tracking"
+    },
+    "23759": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Cache Attacks"
+    },
+    "23594": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Cross-Consensus Broadcast"
+    },
+    "23723": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Sealed-bid Auctions"
+    },
+    "23652": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Private Neural Network Inference"
+    },
+    "23597": {
+      "broad_category": "Network Security",
+      "sub_area": "Certificate Transparency"
+    },
+    "23828": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Cryptocurrency Phishing"
+    },
+    "23654": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Union"
+    },
+    "23707": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Model Extraction Attack"
+    },
+    "23717": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM-based Security Tools"
+    },
+    "23589": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/Routing Security"
+    },
+    "23746": {
+      "broad_category": "Systems Security",
+      "sub_area": "Virtualization Security"
+    },
+    "23728": {
+      "broad_category": "Software Security",
+      "sub_area": "Exploitation"
+    },
+    "23790": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Industrial Control Systems"
+    },
+    "23775": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Cross-Consensus Broadcast"
+    },
+    "23663": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Model Extraction Attack"
+    },
+    "23664": {
+      "broad_category": "Web Security",
+      "sub_area": "XSS/CSRF"
+    },
+    "23649": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Jailbreaking"
+    },
+    "23574": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Security"
+    },
+    "23702": {
+      "broad_category": "Software Security",
+      "sub_area": "Fuzzing"
+    },
+    "23767": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Security Usability"
+    },
+    "23741": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Diffing"
+    },
+    "23575": {
+      "broad_category": "Network Security",
+      "sub_area": "Website Fingerprinting"
+    },
+    "23577": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Federated Learning"
+    },
+    "23683": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Cache Attacks"
+    },
+    "23822": {
+      "broad_category": "Systems Security",
+      "sub_area": "Trusted Execution (TEE)"
+    },
+    "23666": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23684": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Safety/Alignment"
+    },
+    "23751": {
+      "broad_category": "Software Security",
+      "sub_area": "Use-After-Free Prevention"
+    },
+    "23698": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Intersection"
+    },
+    "23641": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Analysis"
+    },
+    "23676": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "IoT Security"
+    },
+    "23656": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "IoT Security"
+    },
+    "23800": {
+      "broad_category": "Systems Security",
+      "sub_area": "Rowhammer"
+    },
+    "23635": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Drone Security"
+    },
+    "23753": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "BLE Security"
+    },
+    "23808": {
+      "broad_category": "Software Security",
+      "sub_area": "Supply Chain Security"
+    },
+    "23816": {
+      "broad_category": "Web Security",
+      "sub_area": "JavaScript Security"
+    },
+    "23628": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Developer Practices"
+    },
+    "23667": {
+      "broad_category": "Systems Security",
+      "sub_area": "CPU Fuzzing"
+    },
+    "23672": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Fuzzing"
+    },
+    "23627": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Messaging Security"
+    },
+    "23731": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23729": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Satellite Security"
+    },
+    "23786": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "DeFi Security"
+    },
+    "23711": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Censorship Circumvention"
+    },
+    "23674": {
+      "broad_category": "Systems Security",
+      "sub_area": "Virtualization Security"
+    },
+    "23688": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23675": {
+      "broad_category": "Network Security",
+      "sub_area": "Network Protocol Security"
+    },
+    "23755": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Analysis"
+    },
+    "23760": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Inference Attacks"
+    },
+    "23714": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM-based Security Tools"
+    },
+    "23804": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Malicious Domain Detection"
+    },
+    "23792": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Backdoor Attacks"
+    },
+    "23738": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "IoT Vulnerability Detection"
+    },
+    "23568": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23617": {
+      "broad_category": "Systems Security",
+      "sub_area": "OS Security"
+    },
+    "23749": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cloud Security"
+    },
+    "23633": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Homomorphic Encryption"
+    },
+    "23651": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Wearable Authentication"
+    },
+    "23593": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Threat Intelligence"
+    },
+    "23725": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Security"
+    },
+    "23763": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Searchable Encryption"
+    },
+    "23733": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "AI Agents Security"
+    },
+    "23613": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "DeFi Security"
+    },
+    "23639": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Disinformation"
+    },
+    "23797": {
+      "broad_category": "Network Security",
+      "sub_area": "Website Fingerprinting Defense"
+    },
+    "23685": {
+      "broad_category": "Network Security",
+      "sub_area": "DDoS Defense"
+    },
+    "23692": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23832": {
+      "broad_category": "Systems Security",
+      "sub_area": "File System Security"
+    },
+    "23642": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM for Vulnerability Detection"
+    },
+    "23591": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Fraud Detection"
+    },
+    "23689": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Post-Quantum Crypto"
+    },
+    "23659": {
+      "broad_category": "Systems Security",
+      "sub_area": "Container Security"
+    },
+    "23779": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Developer Practices"
+    },
+    "23805": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Backdoor Attacks"
+    },
+    "23588": {
+      "broad_category": "Systems Security",
+      "sub_area": "Rowhammer"
+    },
+    "23690": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "DeFi Security"
+    },
+    "23801": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial ML"
+    },
+    "23701": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Intersection"
+    },
+    "23598": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Censorship Circumvention"
+    },
+    "23821": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23630": {
+      "broad_category": "Software Security",
+      "sub_area": "Fuzzing"
+    },
+    "23799": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Oblivious RAM"
+    },
+    "23670": {
+      "broad_category": "Network Security",
+      "sub_area": "VPN Security"
+    },
+    "23710": {
+      "broad_category": "Network Security",
+      "sub_area": "Network Token Security"
+    },
+    "23814": {
+      "broad_category": "Network Security",
+      "sub_area": "DDoS Defense"
+    },
+    "23620": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Jailbreak"
+    },
+    "23830": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Threat Intelligence"
+    },
+    "23747": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Injection"
+    },
+    "23640": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23757": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Jailbreaking"
+    },
+    "23730": {
+      "broad_category": "Network Security",
+      "sub_area": "NTP Security"
+    },
+    "23802": {
+      "broad_category": "Network Security",
+      "sub_area": "DDoS Defense"
+    },
+    "23587": {
+      "broad_category": "Network Security",
+      "sub_area": "Email Security"
+    },
+    "23680": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Mixnet Security"
+    },
+    "23571": {
+      "broad_category": "Network Security",
+      "sub_area": "Source Address Validation"
+    },
+    "23787": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Privacy-Preserving Graph Search"
+    },
+    "23679": {
+      "broad_category": "Web Security",
+      "sub_area": "Phishing"
+    },
+    "23823": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23601": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Security"
+    },
+    "23748": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial ML"
+    },
+    "23824": {
+      "broad_category": "Network Security",
+      "sub_area": "Mobile Network Security"
+    },
+    "23793": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/Routing Security"
+    },
+    "23585": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23704": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Exploitation"
+    },
+    "23662": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "IoT Security"
+    },
+    "23743": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Cryptocurrency Phishing"
+    },
+    "23647": {
+      "broad_category": "Web Security",
+      "sub_area": "Phishing"
+    },
+    "23686": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "IoT Vulnerability Detection"
+    },
+    "23727": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Remote Attestation"
+    },
+    "23766": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Security"
+    },
+    "23734": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Fuzzing"
+    },
+    "23573": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Intersection"
+    },
+    "23576": {
+      "broad_category": "Network Security",
+      "sub_area": "Wireless Service Discovery"
+    },
+    "23780": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Differential Privacy"
+    },
+    "23764": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differentially Private Code Generation"
+    },
+    "23699": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differential Privacy for Reinforcement Learning"
+    },
+    "23622": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Injection"
+    },
+    "23726": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM for Vulnerability Detection"
+    },
+    "23631": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/Routing Security"
+    },
+    "23657": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Privacy"
+    },
+    "23607": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Adversarial Robustness for LLMs"
+    },
+    "23791": {
+      "broad_category": "Quantum Computing Security",
+      "sub_area": "Backdoor Attacks on Quantum Algorithms"
+    },
+    "23696": {
+      "broad_category": "Systems Security",
+      "sub_area": "Processor Fuzzing"
+    },
+    "23590": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Domain Dispute Analysis"
+    },
+    "23645": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Fake Speech Detection"
+    },
+    "23624": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Social Media Algorithm Analysis"
+    },
+    "23610": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differential Privacy for Hyperparameter Tuning"
+    },
+    "23789": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Fraud Detection"
+    },
+    "23758": {
+      "broad_category": "Software Security",
+      "sub_area": "Code Reuse Attack Synthesis"
+    },
+    "23580": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Backdoor Attacks"
+    },
+    "23687": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Secure Multiparty Computation"
+    },
+    "23788": {
+      "broad_category": "Software Security",
+      "sub_area": "Fuzzing"
+    },
+    "23655": {
+      "broad_category": "Software Security",
+      "sub_area": "Supply Chain Security"
+    },
+    "23818": {
+      "broad_category": "Software Security",
+      "sub_area": "Exploitation"
+    },
+    "23632": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "AI Agents Security"
+    },
+    "23608": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "DeFi Security"
+    },
+    "23694": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Automotive Security"
+    },
+    "23705": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Intersection"
+    },
+    "23709": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Inference Attacks"
+    },
+    "23712": {
+      "broad_category": "Network Security",
+      "sub_area": "DNS Security"
+    },
+    "23658": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23582": {
+      "broad_category": "Network Security",
+      "sub_area": "VoIP Security"
+    },
+    "23810": {
+      "broad_category": "Network Security",
+      "sub_area": "Mobile Network Security"
+    },
+    "23745": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side Channels"
+    },
+    "23784": {
+      "broad_category": "Systems Security",
+      "sub_area": "Trusted Execution (TEE)"
+    },
+    "23785": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Authenticated Dictionaries"
+    },
+    "23795": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Exploitation"
+    },
+    "23612": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Sensor Security"
+    },
+    "23572": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Secure Multiparty Computation"
+    },
+    "23778": {
+      "broad_category": "Network Security",
+      "sub_area": "DDoS Defense"
+    },
+    "23768": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Password Guessing"
+    },
+    "23581": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Federated Learning"
+    },
+    "23638": {
+      "broad_category": "Software Security",
+      "sub_area": "Fuzzing"
+    },
+    "23678": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Password Guessing"
+    },
+    "23669": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial ML"
+    },
+    "23776": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Online Abuse"
+    },
+    "23629": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cloud Security"
+    },
+    "23605": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Autonomous Perception Security"
+    },
+    "23614": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Privacy Perceptions"
+    },
+    "23735": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Censorship Policies"
+    },
+    "23739": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Denial-of-Service Attacks"
+    },
+    "23826": {
+      "broad_category": "Systems Security",
+      "sub_area": "Firmware Vulnerability Detection"
+    },
+    "23721": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Abuse Ecosystem Analysis"
+    },
+    "23634": {
+      "broad_category": "Network Security",
+      "sub_area": "Remote Timing Attacks"
+    },
+    "23695": {
+      "broad_category": "Network Security",
+      "sub_area": "I2P De-anonymization"
+    },
+    "23833": {
+      "broad_category": "Network Security",
+      "sub_area": "Intrusion Detection"
+    },
+    "23736": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Differential Privacy"
+    },
+    "23744": {
+      "broad_category": "Web Security",
+      "sub_area": "JWT Vulnerability Analysis"
+    },
+    "23807": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Prompt Stealing Attacks"
+    },
+    "23794": {
+      "broad_category": "Web Security",
+      "sub_area": "SPA Taint Analysis"
+    },
+    "23812": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Static Analysis Attacks"
+    },
+    "23595": {
+      "broad_category": "Systems Security",
+      "sub_area": "Embedded TEE Security"
+    },
+    "23829": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Code Signing Abuse"
+    },
+    "23578": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/Routing Security"
+    },
+    "23798": {
+      "broad_category": "IoT and CPS Security",
+      "sub_area": "Aviation Security"
+    },
+    "23781": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Dataset Watermarking"
+    },
+    "23668": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Exploitation"
+    },
+    "23599": {
+      "broad_category": "Software Security",
+      "sub_area": "Firmware Rehosting"
+    },
+    "23720": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Oracle Security"
+    },
+    "23650": {
+      "broad_category": "Software Security",
+      "sub_area": "Password Manager Attacks"
+    },
+    "23570": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Oblivious RAM"
+    },
+    "23819": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Security Architecture"
+    },
+    "23750": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Dataset Copyright Auditing"
+    },
+    "23603": {
+      "broad_category": "Digital Forensics and Abuse",
+      "sub_area": "Deepfake Detection"
+    },
+    "23706": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Diffing"
+    },
+    "23618": {
+      "broad_category": "Software Security",
+      "sub_area": "Supply Chain Security"
+    },
+    "23722": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Membership Inference"
+    },
+    "23825": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "White-Box Encryption"
+    },
+    "23648": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Protocol Verification"
+    },
+    "23604": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM for Vulnerability Detection"
+    },
+    "23703": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Security Architecture"
+    },
+    "23660": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Differential Privacy"
+    },
+    "23820": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Mixnet Security"
+    },
+    "23586": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Federated Learning"
+    },
+    "23771": {
+      "broad_category": "Network Security",
+      "sub_area": "Traffic Analysis"
+    },
+    "23762": {
+      "broad_category": "Network Security",
+      "sub_area": "Wi-Fi Security"
+    },
+    "23811": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Federated Learning"
+    }
+  }
+}
